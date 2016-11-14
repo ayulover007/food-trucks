@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ttail/!svn/ver/2/ttail/ttail-weixin/src/main/resources/config/log
+END
+logback-prod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ttail/!svn/ver/2/ttail/ttail-weixin/src/main/resources/config/log/logback-prod.xml
+END
+logback-dev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ttail/!svn/ver/2/ttail/ttail-weixin/src/main/resources/config/log/logback-dev.xml
+END

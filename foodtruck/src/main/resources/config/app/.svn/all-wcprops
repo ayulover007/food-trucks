@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ttail/!svn/ver/114/ttail/ttail-weixin/src/main/resources/config/app
+END
+app-common.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ttail/!svn/ver/43/ttail/ttail-weixin/src/main/resources/config/app/app-common.properties
+END
+app-dev.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ttail/!svn/ver/147/ttail/ttail-weixin/src/main/resources/config/app/app-dev.properties
+END
+app-prod.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ttail/!svn/ver/100/ttail/ttail-weixin/src/main/resources/config/app/app-prod.properties
+END

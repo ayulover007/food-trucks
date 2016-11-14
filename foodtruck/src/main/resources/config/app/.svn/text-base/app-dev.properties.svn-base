@@ -1,0 +1,14 @@
+##database
+datasource.minIdleConnSize=1
+datasource.initConnSize=1
+datasource.maxActiveConnSize=20
+datasource.url=jdbc:mysql://120.76.122.170:3306/ttail?useUnicode=true&autoReconnect=true
+datasource.username=root
+datasource.password=qrbtbg1210
+datasource.driver=com.mysql.jdbc.Driver
+
+#thymeleaf template url
+thymeleaf.hostAndPort=http://weixin.ttail.cn/ftp/ttail/templates/
+
+#Tomcat
+server.port=8081

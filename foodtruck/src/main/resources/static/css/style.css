@@ -1,0 +1,33 @@
+html {
+	height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0
+}
+
+#map-canvas {
+	height: 100%
+}
+
+#foodTruckPanel {
+	left: 70%;
+	width: 450px;
+	position: absolute;
+	margin-right: 100px;
+	top: 5%;
+	background-color: gray;
+	height: 700px !important;
+	padding-left: 20px;
+	padding-right: 20px;
+	z-index: 100;
+	overflow-y: scroll;
+	overflow-x: hidden
+}
+
+#content {
+	opacity: 0.96;
+	filter: alpha(opacity=96);
+}

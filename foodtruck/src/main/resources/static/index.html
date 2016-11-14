@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>food trucks - sf</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/css/carousel.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+
+<body>
+	<div id="map-canvas"></div>
+	<div id="content">
+		<div id="foodTruckPanel">
+			<div
+				style="font-family: 'Lato', sans-serif; font-size: 70px; color:#ffffff; text-shadow: 4px 4px 4px #111;">
+				Food Trucks</div>
+
+			<div class="input-group">
+				<input name="address" type="text" class="form-control"> <span
+					class="input-group-btn">
+					<button class="btn btn-default" type="submit">Search</button> </span>
+			</div>
+			<div style="align:center; color:#ff5555;">
+				<p align="center"></p>
+			</div>
+			<table id="myTable" class="table table-condensed">
+				<thead>
+					<tr>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr style="color:#ffffff; font-size: 17px;">
+						<td></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	<script type="text/javascript"
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEBWEEaqh34F_C14Pe7EOv_wgL-AiuJW4"></script>
+	<script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/js/location.js"></script>
+</body>
+</html>

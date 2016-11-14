@@ -1,0 +1,3 @@
+<configuration>
+	 <include resource="config/log/logback-${spring.profiles.active:-dev}.xml"/>
+</configuration> 
