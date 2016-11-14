@@ -23,7 +23,9 @@ The following technologies are used to implement Food Trucks V1.0
 ###How to start developing###
 Clone the project:
 
-git clone https://github.com/ayulover007/food-trucks.git
+```
+  git clone https://github.com/ayulover007/food-trucks.git
+```
 
 ###How to deploy###
 1)You could do the following from command line
