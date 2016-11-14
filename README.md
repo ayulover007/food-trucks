@@ -57,10 +57,12 @@ Once the web app is running, the below is an example of the rest api's available
   http://localhost:8081/getFoodTrucks?lantitude=37.7267279782571&longitude=-122.388658428832
 ```
 It will give you the result of food truck collections. The following table is the response data structure:
+
 |param name     |description    | example  |
 | ------------- |:-------------:| -----|
 | errors        | the error info if response failed | failed get lantitude |
 | result      | the json format colletions if response success      |  {"address":"2115 JENNINGS ST","applicant":"Paul's Catering"...|
+
   
 ###How to view###
 
