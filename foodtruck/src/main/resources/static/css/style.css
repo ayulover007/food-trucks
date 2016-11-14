@@ -19,11 +19,11 @@ body {
 	margin-right: 100px;
 	top: 5%;
 	background-color: gray;
-	height: 700px !important;
+	height: 120px !important;
 	padding-left: 20px;
 	padding-right: 20px;
 	z-index: 100;
-	overflow-y: scroll;
+	overflow-y: hidden;
 	overflow-x: hidden
 }
 

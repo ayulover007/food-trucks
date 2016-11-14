@@ -35,7 +35,7 @@ public class FoodTruckController {
 	 * @throws IOException
 	 *             if food truck json file not found.
 	 */
-	@RequestMapping(value = "/initialCache")
+	@RequestMapping(value = "initialCache")
 	@ResponseBody
 	public WebResponse<String> initializeCache() throws IOException {
 		this.foodTruckCacheService.initializeCache(TestUtils
