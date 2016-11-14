@@ -47,6 +47,12 @@ Once the web app is running, the below is an example of the rest api's available
 ```
 It will give you the result of food truck collections
   
+###How to view###
+
+When the Spring Boot Application started, you can access the site like the below
+```
+  http://localhost:8081/index.html
+```
 
 
 ###Unit Tests###
