@@ -58,7 +58,7 @@ Once the web app is running, the below is an example of the rest api's available
 ```
 It will give you the result of food truck collections. The following table is the response data structure:
 
-|param name     |description    | example  |
+|param    |description    | example  |
 | :------------- |:-------------| -----|
 | errors        | the error info if response failed | failed get lantitude |
 | result      | the json format colletions if response success      |  {"address":"2115 JENNINGS ST","applicant":"Paul's Catering"...|
