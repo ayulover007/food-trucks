@@ -21,7 +21,6 @@ The following technologies are used to implement Food Trucks V1.0
 </ol>
 
 ###How to start developing###
-Want to be a committer for FoodTrucks? 
 Clone the project:
 
 git clone https://github.com/ayulover007/food-trucks.git
