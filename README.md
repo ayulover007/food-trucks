@@ -31,6 +31,7 @@ git clone https://github.com/ayulover007/food-trucks.git
   a) mvn package 
   
   b) nohup java -jar target/food-trucks.jar &
+  
 2) From Eclipse 
 
   a) Import the project into eclipse. 
