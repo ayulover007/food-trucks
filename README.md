@@ -11,6 +11,17 @@ It mashes up the following APIs to achieve its goal.
 
 -DataSF
 
+###Package Description###
+<ol>
+<li>base: place the base domain class </li>
+<li>cache: The structure class of Data SF</li>
+<li>controller: The web response entry</li>
+<li>domain: place all persistent domain</li>
+<li>schedule: define the timed task</li>
+<li>service: create some service for controller invoke</li>
+<li>utils: place all the util tool</li>
+</ol>
+
 ###The Technology Stack###
 The following technologies are used to implement Food Trucks V1.0
 
