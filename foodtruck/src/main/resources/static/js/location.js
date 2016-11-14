@@ -37,7 +37,7 @@ $(function() {
 				map.setCenter(results[0].geometry.location);
 				center_marker = new google.maps.Marker({
 					map : map,
-					animation: google.maps.Animation.DROP,
+					animation: google.maps.Animation.BOUNCE,
 					position : results[0].geometry.location
 				});
 				$.ajax({
